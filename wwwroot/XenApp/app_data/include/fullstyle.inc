@@ -13,7 +13,7 @@ background-image: -moz-linear-gradient(top,
 .horizonPage, #horizonTop { background: #FFF; }
 #horizonTop {display:none;}
 #horizonTop img{padding-top:40px;}
-.horizonPage .mainPane {width: 900px; margin: 0 auto; margin-top:80px; margin-bottom: 80px; top:0; background: url(../media/custom/UF-Apps-CloudGraphic1.png) no-repeat right top }
+.horizonPage .mainPane {width: 900px; margin: 0 auto; margin-top:80px; padding-bottom:10px; top:0; background: url(../media/custom/UF-Apps-CloudGraphic1.png) no-repeat right top }
 table.carbonBox {width:auto; margin-top:60px;}
 #horizonMainPane{height:415px;}
 #horizonTagline{color:#666;}
@@ -73,7 +73,7 @@ table.carbonBox {width:auto; margin-top:60px;}
   text-align: center;
 }
 .footerLinks{
-	width:200px;
+	width:275px;
 	display:inline-block;
 	color: #F5F5F5;
 	text-align: left;
@@ -82,12 +82,11 @@ table.carbonBox {width:auto; margin-top:60px;}
 	border-left:1px dotted white;
 }	
 .footerLinks p{
+    font-size:130%;
 	color:#F5F5F5 !important;
+    padding: 17px !important;
+    float:left;
 }
 .footerLinks a{
 	color:#FFF;
 }
-.footerLinks li{
-	margin-left:2em;
-}
-	
