@@ -74,13 +74,18 @@ table.carbonBox {width:auto; margin-top:60px;}
 }
 .footerLinks{
 	width:275px;
-	display:inline-block;
+	height: 70px;
+	margin: 0 auto;
+	margin-top:15px;
 	color: #F5F5F5;
 	text-align: left;
-	padding-right:20px;
-	padding-left:5px;
 	border-left:1px dotted white;
-}	
+}
+.footerLinks h2{
+	font-size:200%;
+	line-height:0;
+	padding-left:10px;
+}
 .footerLinks p{
     font-size:130%;
 	color:#F5F5F5 !important;
