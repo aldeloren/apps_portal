@@ -5,11 +5,14 @@
 %>
 <div id="footer">
   <div id="footerBegin">
-	<div class="footerLinks">
+	<div class="container">
+      <div class="footerLinks">
 		<h2>More Information</h2>
 			<p>&raquo; <a href="http://info.apps.ufl.edu">View the FAQ</a></p>
 			<p style="display:none;">&raquo; <a href="#">Read the Wiki</a></p>
-	</div>
+	  </div>
+      <div id="poweredBy"></div>
+    </div>
   </div>
   <div id="monogram"><img src="../media/custom/uf_monogram.png">
 	</div>
@@ -50,8 +53,6 @@
 		  </div>
 		</div>
 	</div>
-<!-- Commented out until moved to production
-
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -64,5 +65,5 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>-->
+</script>
 </div>

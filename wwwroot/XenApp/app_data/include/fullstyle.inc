@@ -94,3 +94,13 @@ table.carbonBox {width:auto; margin-top:60px;}
 .footerLinks a{
 	color:#FFF;
 }
+.container{
+    width:900px;
+    margin: 0 auto;
+}
+#poweredBy{
+    width:123px;
+    height:26px;
+    background: url(../media/custom/powered_by.png) no-repeat;
+    float:right;
+}
