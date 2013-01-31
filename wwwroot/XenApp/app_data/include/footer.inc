@@ -38,7 +38,7 @@
 				<li><a href="http://www.ufl.edu/disability/">Disability Services</a></li>
 				<li><a href="http://privacy.ufl.edu/privacystatement.html">Privacy Policy</a></li>
 				<li><a href="http://regulations.ufl.edu/">Regulations</a></li>
-								<li><a id="contact-webmaster" href="mailto:webmaster@ufl.edu">Contact Webmaster</a></li> 				<li><a href='https://www.uff.ufl.edu/OnlineGiving/Advanced.asp'>Make a Gift</a></li>
+								<li><a id="contact-webmaster" href="mailto:at-ccx-admins@mail.ufl.edu">Contact Webmaster</a></li> 				<li><a href='https://www.uff.ufl.edu/OnlineGiving/Advanced.asp'>Make a Gift</a></li>
 			</ul>
 			<ul>
 				<li>&copy; 2013 <a href="http://www.ufl.edu/">University of Florida</a>, Gainesville, FL 32611; (352) 392-3261</li>

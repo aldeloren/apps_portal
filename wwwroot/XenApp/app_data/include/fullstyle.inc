@@ -83,7 +83,6 @@ table.carbonBox {width:auto; margin-top:60px;}
 }
 .footerLinks h2{
 	font-size:200%;
-	line-height:0;
 	padding-left:10px;
 }
 .footerLinks p{
