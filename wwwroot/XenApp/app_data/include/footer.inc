@@ -1,15 +1,14 @@
+<%
+// footer.inc
+// Copyright (c) 2000 - 2010 Citrix Systems, Inc. All Rights Reserved.
+// Web Interface 5.4.0.0
+%>
 <div id="footer">
-<div id="footerBegin">
+  <div id="footerBegin">
 	<div class="footerLinks">
-		<h4>Service Status</h4>
-			<p>UFApps is working at full capacity.</p>
-	</div>
-	<div class="footerLinks">
-		<h4>More Information</h4>
-			<ul>
-				<li>&raquo; <a href="http://info.apps.ufl.edu">View the FAQ</a></li>
-				<li>&raquo; <a href="#">Read the Wiki</a></li>
-			</ul>
+		<h2>More Information</h2>
+			<p>&raquo; <a href="http://info.apps.ufl.edu">View the FAQ</a></p>
+			<p style="display:none;">&raquo; <a href="#">Read the Wiki</a></p>
 	</div>
   </div>
   <div id="monogram"><img src="../media/custom/uf_monogram.png">
